@@ -1,0 +1,11 @@
+# C++ executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug/build folders
+build/
+Debug/
+Release/
