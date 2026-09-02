@@ -4,7 +4,7 @@
 
 | Metric | Count |
 |---|---:|
-| Logic Building Problems | 2 |
+| Logic Building Problems | 3 |
 | DSA Problems | 0 |
 | Git/GitHub Level | Beginner |
 
@@ -12,7 +12,7 @@
 
 | Topic | Status | Problems |
 |---|---|---:|
-| Input/Output | 🟡 Learning | 2 |
+| Input/Output | 🟡 Learning | 3 |
 | Operators | 🔴 Not Started | 0 |
 | Conditions | 🔴 Not Started | 0 |
 | Loops | 🔴 Not Started | 0 |
