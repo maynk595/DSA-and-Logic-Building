@@ -1,16 +1,18 @@
 # 📊 DSA Progress
 
-## Overall Progress
+## 📈 Overall Progress
 
-- Logic Building: 1 problems
-- DSA: 0 problems
-- Git/GitHub: Beginner
+| Metric | Count |
+|---|---:|
+| Logic Building Problems | 2 |
+| DSA Problems | 0 |
+| Git/GitHub Level | Beginner |
 
 ## Topics
 
 | Topic | Status | Problems |
 |---|---|---:|
-| Input/Output | 🟡 Learning | 1 |
+| Input/Output | 🟡 Learning | 2 |
 | Operators | 🔴 Not Started | 0 |
 | Conditions | 🔴 Not Started | 0 |
 | Loops | 🔴 Not Started | 0 |
