@@ -18,9 +18,9 @@
 - [ ] Basic Mathematics
 
 ## Practice
-- Problems Solved: 49 / 70
-- Easy: 39
-- Medium: 10
+- Problems Solved: 57 / 70
+- Easy: 45
+- Medium: 12
 - Hard: 0
 
 ## Status
@@ -226,7 +226,7 @@
 
 | Month | Target | Completed | Status |
 |------|--------|-----------|--------|
-| Month 1 | 70 | 49 | 🟡 |
+| Month 1 | 80 | 49 | 🟡 |
 | Month 2 | 60 | 0 | 🔴 |
 | Month 3 | 60 | 0 | 🔴 |
 | Month 4 | 50 | 0 | 🔴 |
